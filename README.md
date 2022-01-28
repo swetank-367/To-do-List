@@ -30,7 +30,7 @@
 ## 🚀 Installation
 
 ```bash
-$ git clone https://github.com/gabrielsanttana/todolist-v2
+$ git clone https://github.com/swetank-367/To-do-List.git
 ```
 
 Before running the project, it's necessary to have a database setup on a MongoDB Atlas Cluster. With that, create a `.env` file in the backend folder root and put these keys in environment variables and they'll work on the mongoose connection string. 
